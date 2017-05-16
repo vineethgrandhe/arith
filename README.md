@@ -14,8 +14,10 @@ return a*b;
 }
 void main()
 {
-int a,b,c,d,e;
+int a,b,c,d,e,f,g;
 c=sum(a,b);
 d=sub(a,b);
 e=mul(a,b)
+f=a*b*c;
+g=a+b+c;
 }
